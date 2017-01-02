@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GoogleMapShareLocation</string>
+    <string name="access_token">pk.eyJ1Ijoic3VuaWw2NzYiLCJhIjoiY2l4ZWI3MjhxMDA1ODJ5bzMycXI5cDZxOCJ9.GUysrwGNZ2Pc4TtliKVBpQ</string>
+</resources>
